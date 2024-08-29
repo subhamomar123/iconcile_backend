@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Hotel A1",
+        "amenities": "WiFi, Pool, Gym",
+        "description": "A luxurious hotel in city center",
+        "location": "New York",
+        "rating": 4.5
+    },
+    {
+        "name": "Hotel A2",
+        "amenities": "WiFi, Pool, Spa",
+        "description": "A cozy hotel near downtown",
+        "location": "New York",
+        "rating": 4.0
+    },
+    {
+        "name": "Hotel A3",
+        "amenities": "WiFi, Parking",
+        "description": "Comfortable stay with free parking",
+        "location": "New York",
+        "rating": 3.8
+    },
+    {
+        "name": "Hotel A4",
+        "amenities": "WiFi, Gym, Spa",
+        "description": "Modern amenities and excellent service",
+        "location": "New York",
+        "rating": 4.2
+    },
+    {
+        "name": "Hotel A5",
+        "amenities": "WiFi, Pool",
+        "description": "Affordable and well-located hotel",
+        "location": "New York",
+        "rating": 3.7
+    },
+    {
+        "name": "Hotel A6",
+        "amenities": "WiFi, Pool, Gym",
+        "description": "Luxurious stay with city views",
+        "location": "New York",
+        "rating": 4.6
+    },
+    {
+        "name": "Hotel A7",
+        "amenities": "WiFi, Breakfast",
+        "description": "Comfortable rooms with free breakfast",
+        "location": "New York",
+        "rating": 4.1
+    },
+    {
+        "name": "Hotel A8",
+        "amenities": "WiFi, Pool, Restaurant",
+        "description": "Great dining options and amenities",
+        "location": "New York",
+        "rating": 4.3
+    },
+    {
+        "name": "Hotel A9",
+        "amenities": "WiFi, Spa",
+        "description": "Relaxing stay with spa services",
+        "location": "New York",
+        "rating": 4.4
+    },
+    {
+        "name": "Hotel A10",
+        "amenities": "WiFi, Parking, Gym",
+        "description": "Convenient location with all necessary amenities",
+        "location": "New York",
+        "rating": 3.9
+    },
+    {
+        "name": "Hotel B1",
+        "amenities": "WiFi, Pool, Gym",
+        "description": "Luxurious hotel in city center",
+        "location": "Los Angeles",
+        "rating": 4.5
+    },
+    {
+        "name": "Hotel B2",
+        "amenities": "WiFi, Pool, Spa",
+        "description": "A cozy hotel near downtown",
+        "location": "Los Angeles",
+        "rating": 4.0
+    },
+    {
+        "name": "Hotel B3",
+        "amenities": "WiFi, Parking",
+        "description": "Comfortable stay with free parking",
+        "location": "Los Angeles",
+        "rating": 3.8
+    },
+    {
+        "name": "Hotel B4",
+        "amenities": "WiFi, Gym, Spa",
+        "description": "Modern amenities and excellent service",
+        "location": "Los Angeles",
+        "rating": 4.2
+    },
+    {
+        "name": "Hotel B5",
+        "amenities": "WiFi, Pool",
+        "description": "Affordable and well-located hotel",
+        "location": "Los Angeles",
+        "rating": 3.7
+    },
+    {
+        "name": "Hotel B6",
+        "amenities": "WiFi, Pool, Gym",
+        "description": "Luxurious stay with city views",
+        "location": "Los Angeles",
+        "rating": 4.6
+    },
+    {
+        "name": "Hotel B7",
+        "amenities": "WiFi, Breakfast",
+        "description": "Comfortable rooms with free breakfast",
+        "location": "Los Angeles",
+        "rating": 4.1
+    },
+    {
+        "name": "Hotel B8",
+        "amenities": "WiFi, Pool, Restaurant",
+        "description": "Great dining options and amenities",
+        "location": "Los Angeles",
+        "rating": 4.3
+    },
+    {
+        "name": "Hotel B9",
+        "amenities": "WiFi, Spa",
+        "description": "Relaxing stay with spa services",
+        "location": "Los Angeles",
+        "rating": 4.4
+    },
+    {
+        "name": "Hotel B10",
+        "amenities": "WiFi, Parking, Gym",
+        "description": "Convenient location with all necessary amenities",
+        "location": "Los Angeles",
+        "rating": 3.9
+    },
+    {
+        "name": "Hotel C1",
+        "amenities": "WiFi, Pool, Gym",
+        "description": "Luxurious hotel in city center",
+        "location": "Chicago",
+        "rating": 4.5
+    },
+    {
+        "name": "Hotel C2",
+        "amenities": "WiFi, Pool, Spa",
+        "description": "A cozy hotel near downtown",
+        "location": "Chicago",
+        "rating": 4.0
+    },
+    {
+        "name": "Hotel C3",
+        "amenities": "WiFi, Parking",
+        "description": "Comfortable stay with free parking",
+        "location": "Chicago",
+        "rating": 3.8
+    },
+    {
+        "name": "Hotel C4",
+        "amenities": "WiFi, Gym, Spa",
+        "description": "Modern amenities and excellent service",
+        "location": "Chicago",
+        "rating": 4.2
+    },
+    {
+        "name": "Hotel C5",
+        "amenities": "WiFi, Pool",
+        "description": "Affordable and well-located hotel",
+        "location": "Chicago",
+        "rating": 3.7
+    },
+    {
+        "name": "Hotel C6",
+        "amenities": "WiFi, Pool, Gym",
+        "description": "Luxurious stay with city views",
+        "location": "Chicago",
+        "rating": 4.6
+    },
+    {
+        "name": "Hotel E7",
+        "amenities": "WiFi, Breakfast",
+        "description": "Comfortable rooms with free breakfast",
+        "location": "Chicago",
+        "rating": 4.1
+    },
+    {
+        "name": "Hotel C8",
+        "amenities": "WiFi, Pool, Restaurant",
+        "description": "Great dining options and amenities",
+        "location": "Chicago",
+        "rating": 4.3
+    },
+    {
+        "name": "Hotel C9",
+        "amenities": "WiFi, Spa",
+        "description": "Relaxing stay with spa services",
+        "location": "Chicago",
+        "rating": 4.4
+    },
+    {
+        "name": "Hotel C10",
+        "amenities": "WiFi, Parking, Gym",
+        "description": "Convenient location with all necessary amenities",
+        "location": "Chicago",
+        "rating": 3.9
+    }
+]
